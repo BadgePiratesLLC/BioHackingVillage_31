@@ -2,6 +2,11 @@
 
 Biohack village - 2023
 
+Meeting 1/30/2023 - fg, Networkgeek, lee
+ - Discussed
+   - Showed Example
+   - Ordered some lenses for testing
+
 Meeting 2/2/2023 - fg, Networkgeek, nina, lee
   - Discussed 
     - High tech vs low Tech
