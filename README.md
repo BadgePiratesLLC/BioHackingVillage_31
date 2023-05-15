@@ -1,6 +1,9 @@
 # Project-Galadriel
 
 Biohack village - 2023
+Project Link - https://badgepirates.atlassian.net/jira/software/c/projects/BHV23/boards/21
+
+
 
 Meeting 1/30/2023 - fg, Networkgeek, lee
  - Discussed
