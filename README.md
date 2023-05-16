@@ -21,5 +21,5 @@ Meeting 2/2/2023 - fg, Networkgeek, nina, lee
     - Kit to assemble or to include the badge in would be cool - nina
     - 5k Budget - 100 --> 150 
     
-UV LED - https://www.mouser.com/ProductDetail/Bivar/SM0603UV-400?qs=pceeu5JH%2FH%2FbOvJT9BLFMw%3D%3D
-ST3T Switch - https://www.digikey.com/en/products/detail/c-k/PCM13SMTR/1640113
+- UV LED - https://www.mouser.com/ProductDetail/Bivar/SM0603UV-400?qs=pceeu5JH%2FH%2FbOvJT9BLFMw%3D%3D
+- ST3T Switch - https://www.digikey.com/en/products/detail/c-k/PCM13SMTR/1640113
