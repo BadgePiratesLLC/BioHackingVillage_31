@@ -1,4 +1,4 @@
-21870901883179023
+21867528300751491
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -322,26 +322,12 @@ Standard SOT-223 Footprint
 4
 3
 BadgePirates
-SP4T - CUS-14TB
-
-
-0
-10
-10
-BadgePirates
 SSD1306-0.91-OLED-4pin-128x32
 
 
 0
 4
 4
-BadgePirates
-SW-SMD_NIDEC_CUS-14TB
-
-
-0
-10
-10
 BadgePirates
 SW_PUSH_6mm_H5mm
 tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm

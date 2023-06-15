@@ -1,4 +1,0 @@
-
-(fp_lib_table
-  (lib (name "BHVBadge")(type KiCad)(uri "$(KIPRJMOD)/BHVBadge.pretty")(options "")(descr ""))
-)
