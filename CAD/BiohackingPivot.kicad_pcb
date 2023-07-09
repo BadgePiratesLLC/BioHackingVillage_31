@@ -4,8 +4,12 @@
     (thickness 1.6)
   )
 
-  (paper "A4")
+  (paper "A")
   (title_block
+    (title "BioHacking Badge")
+    (date "2023-07-09")
+    (rev "2.0")
+    (company "BadgePirates")
     (comment 1 "126x100")
   )
 
