@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "7.0.2"
     },
-    "CreationDate": "2023-06-24T07:46:36-05:00"
+    "CreationDate": "2023-07-11T20:38:23-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "BiohackingPivot",
       "GUID": "42696f68-6163-46b6-996e-675069766f74",
-      "Revision": "rev?"
+      "Revision": "2.0"
     },
     "Size": {
       "X": 101.165,
